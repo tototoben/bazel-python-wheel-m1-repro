@@ -1,0 +1,2 @@
+asyncpg @ git+https://github.com/Rongronggg9/asyncpg.git@fix/pep-621 ; python_full_version >= "3.6.0"
+# ./asyncpg-0.25.0-cp38-cp38-macosx_12_0_arm64.whl
